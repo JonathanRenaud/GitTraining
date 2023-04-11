@@ -1,4 +1,4 @@
-﻿
+TEst﻿
 namespace AtulamAdmin
 {
     partial class TestCommande
