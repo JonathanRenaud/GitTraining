@@ -1,4 +1,4 @@
-﻿
+modif branch070﻿
 namespace AtulamAdmin
 {
     partial class TestCommande
